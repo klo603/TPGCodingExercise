@@ -11,3 +11,5 @@ I have created two functional webpages Question_1/index.php and Question_2/index
 - Main code/function for Question 2 is located in /Question_2/php/ajax/ folder
 
 - The function for finding the median in located in /Question_2/php/ajax/median.php
+
+- Tested on local MAMP server on Mac OS.
